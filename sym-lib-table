@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV2605LDGSR")(type "KiCad")(uri "C:/Users/Mo/Documents/KiCad/Hapty/resources/DRV2605LDGSR/DRV2605LDGSR.kicad_sym")(options "")(descr ""))
+  (lib (name "AO3407A")(type "KiCad")(uri "C:/Users/Mo/Documents/KiCad/Hapty/resources/AO3407A/AO3407A.kicad_sym")(options "")(descr ""))
+)

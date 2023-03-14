@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DRV2605LDGSR")(type "KiCad")(uri "C:/Users/Mo/Documents/KiCad/Hapty/resources/DRV2605LDGSR")(options "")(descr ""))
+  (lib (name "AO3407A")(type "KiCad")(uri "C:/Users/Mo/Documents/KiCad/Hapty/resources/AO3407A")(options "")(descr ""))
+)
